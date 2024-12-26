@@ -1,5 +1,4 @@
 # Cyber-Fraud-Detection-in-Online-Payments
-The problem is to develop an effective machine learning model to detect cyber fraud in online payments.
 
 <p>The problem is to develop an effective machine learning model to detect cyber fraud in online payments. With the increasing prevalence of online transactions, there is a growing concern about cyber fraud activities, such as unauthorized access, identity theft, and fraudulent transactions. The goal is to build a system that can accurately identify fraudulent activities and prevent financial losses for individuals and businesses.</p>
 
